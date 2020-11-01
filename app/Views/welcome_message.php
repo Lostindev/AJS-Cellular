@@ -221,7 +221,7 @@
 
 		<h1>Welcome to the start of an amazing website.</h1>
 
-		<h2>The small framework with powerful features</h2>
+		<h2>This will all be gone because im going to write code here.</h2>
 
 	</div>
 
