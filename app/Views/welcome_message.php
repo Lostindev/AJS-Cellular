@@ -68,7 +68,7 @@
 		header .logo {
 			float: left;
 			height: 44px;
-			padding: .4rem .5rem;
+			padding: .4rem .5rem; 
 		}
 		header .menu-toggle {
 			display: none;
@@ -219,7 +219,7 @@
 
 	<div class="heroe">
 
-		<h1>Welcome to CodeIgniter <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+		<h1>Welcome to the start of an amazing website.</h1>
 
 		<h2>The small framework with powerful features</h2>
 
