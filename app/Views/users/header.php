@@ -17,6 +17,9 @@
     <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/5bf0da290c.js"></script>
 
+    <!--Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap" rel="stylesheet">
+
 
 </head>
 
@@ -28,17 +31,40 @@
             </span>
 
             <ul id="js-menu">
-                <span class="nav-btn">
+                <a href="<?php echo base_url('/home') ?>" class="nav-btn">
                     <li>Home</li>
-                </span>
+                </a>
+
+                <a class="nav-btn">
                 <li>Store</li>
+                </a>
+
+                <a class="nav-btn">
                 <li>Repairs</li>
+                </a>
+
+                <a class="nav-btn">
                 <li>Services</li>
+                </a>
+
+                <a class="nav-btn">
                 <li>Location</li>
+                </a>
+
+                <a class="nav-btn">
                 <li>Contact</li>
+                </a>
             </ul>
         </nav>
     </header>
+
+    <section id="logo-section" name="logo-section">
+        <div class="container text-center justify-content-center">
+            <div>
+                <img src="/img/logo.png" alt="AJs Logo" class="img-fluid logo ">
+            </div>
+        </div>
+    </section>
 
 
     <!--

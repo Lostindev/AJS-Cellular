@@ -1,15 +1,17 @@
-#logo-section {
-    min-height:5vh;
-}
-
-.logo {
-    object-fit: cover;
-    width:27vh;
-}
 
 #home-section {
     height:90vh;
-    background-image: url('/img/splash.jpg');
+    background-image: url('/img/splash.png');
     background-size: cover;
     background-position: 50% 20%;
+}
+
+@media (hover:none) {
+    #home-section 
+   {
+    background-attachment:inital;
+    background-position: 75% 10%;
+    }
+
+
 }
