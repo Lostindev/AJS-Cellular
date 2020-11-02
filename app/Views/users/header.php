@@ -31,28 +31,28 @@
             </span>
 
             <ul id="js-menu">
-                <a href="<?php echo base_url('/home') ?>" class="nav-btn">
+                <a href="<?php echo base_url('/home') ?>" class="nav-btn nav-active">
                     <li>Home</li>
                 </a>
 
-                <a class="nav-btn">
-                <li>Store</li>
+                <a href="<?php echo base_url('/store') ?>" class="nav-btn">
+                    <li>Store</li>
                 </a>
 
-                <a class="nav-btn">
-                <li>Repairs</li>
+                <a href="<?php echo base_url('/repairs') ?>" class="nav-btn">
+                    <li>Repairs</li>
                 </a>
 
-                <a class="nav-btn">
-                <li>Services</li>
+                <a href="<?php echo base_url('/services') ?>" class="nav-btn">
+                    <li>Services</li>
                 </a>
 
-                <a class="nav-btn">
-                <li>Location</li>
+                <a href="<?php echo base_url('/location') ?>" class="nav-btn">
+                    <li>Location</li>
                 </a>
 
-                <a class="nav-btn">
-                <li>Contact</li>
+                <a href="<?php echo base_url('/contact') ?>" class="nav-btn">
+                    <li>Contact</li>
                 </a>
             </ul>
         </nav>

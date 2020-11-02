@@ -25,22 +25,19 @@
 
         var fakeLocation = document.location;
 
-        $('.nav a').each(function() {
-        // get the absolute URL from the <a> element:
-        var href = this.href,
-            // get the current page and file-type:
-            pageAndFile = href.split('/').pop();
-        // if the location ends with the pageAndFile found in
-        // the current <a> element (using String.prototype.endsWith())
-        // we add the 'active' class-name:
-        if (fakeLocation.endsWith(pageAndFile)) {
-            $(this).closest('a').addClass('nav-active');
+        var url = window.location.href;
+        var page = url.substr(url.lastIndexOf('/') + 1);
+        if (page) {
+            $('#js-menu li [href="' + page + '"]').addClass('nav-active');
+        } else if (page) {
+            $('#js-menu li [href=!"' + page + '"]').addClass('nav-active');
+        } else {
+            $('#js-menu li:first').addClass('nav-active')
         }
-        });
     });
-
-    
 </script>
+
+
 </body>
 
 </html>
