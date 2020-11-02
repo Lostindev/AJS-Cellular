@@ -9,19 +9,39 @@
 
     <!--Local Files-->
     <link rel="stylesheet" href="/css/header.css">
-    <link rel="stylesheet" href="/css/<?php echo $page?>.css">
+    <link rel="stylesheet" href="/css/<?php echo $page ?>.css">
 
     <!-- Bootstrap 4 load from CDN -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/5bf0da290c.js"></script>
+
 
 </head>
 
-
-
-
 <body>
-<header>
+    <header>
+        <nav class="navbar justify-content-center">
+            <span class="nav-toggle" id="js-nav-toggle">
+                <i class="fas fa-bars"></i>
+            </span>
+
+            <ul id="js-menu">
+                <span class="nav-btn">
+                    <li>Home</li>
+                </span>
+                <li>Store</li>
+                <li>Repairs</li>
+                <li>Services</li>
+                <li>Location</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <!--
     <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-center">
         <ul>
             <li class="menu-toggle">
@@ -36,3 +56,5 @@
         </ul>
     </nav>
 </header>
+
+-->
