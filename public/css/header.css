@@ -10,6 +10,7 @@ a{
 
 .nav-active {
   background-color: #fdfdfd;
+  padding-top:7px;
 }
 
 .nav-btn {

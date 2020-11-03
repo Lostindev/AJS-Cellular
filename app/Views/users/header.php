@@ -31,7 +31,7 @@
             </span>
 
             <ul id="js-menu">
-                <a href="<?php echo base_url('/home') ?>" class="nav-btn nav-active">
+                <a href="<?php echo base_url('/home') ?>" class="nav-btn">
                     <li>Home</li>
                 </a>
 
