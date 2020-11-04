@@ -6,6 +6,16 @@
     background-position: 50% 20%;
 }
 
+.home-headers {
+    padding-top:55vh;
+}
+
+#source-h1 {
+    color:white;
+    font-size: 4rem;
+}
+
+
 @media (hover:none) {
     #home-section 
    {

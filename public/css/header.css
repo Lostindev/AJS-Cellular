@@ -7,6 +7,9 @@ a{
   display: flex;
 }
 
+body {
+  font-family:'Space Grotesk', sans-serif!important;
+}
 
 .nav-active {
   background-color: #fdfdfd;
