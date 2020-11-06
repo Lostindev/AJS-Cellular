@@ -86,13 +86,13 @@ ul li:hover {
 	flex-direction: row;
 	background-color: #f15f4b ;
   }
-ul {
+#js-menu {
     display: flex;
     justify-content: center;
     width: 80%;
     flex-direction: row;
   }
-ul li {
+#js-menu li {
     display: inline-block;
     margin: 0 50px 0 50px;
     text-align: left;

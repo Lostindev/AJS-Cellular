@@ -9,7 +9,9 @@
 
     <!--Local Files-->
     <link rel="stylesheet" href="/css/header.css">
+    <link rel="stylesheet" href="/css/footer.css">
     <link rel="stylesheet" href="/css/<?php echo $page ?>.css">
+    
 
     <!-- Bootstrap 4 load from CDN -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -71,10 +73,10 @@
             </span>
 
             <ul id="js-menu">
-                <a href="<?php echo base_url('/home') ?>" class="nav-btn">
+                <a href="<?php echo base_url('/') ?>" class="nav-btn">
                     <li>Home</li>
                 </a>
-
+                
                 <a href="<?php echo base_url('/store') ?>" class="nav-btn">
                     <li>Store</li>
                 </a>

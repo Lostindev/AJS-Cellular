@@ -1,6 +1,6 @@
 
 #home-section {
-    height:90vh;
+    min-height:90vh;
     background-image: url('/img/splash.png');
     background-size: cover;
     background-position: 50% 20%;

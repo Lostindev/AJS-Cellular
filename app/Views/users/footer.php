@@ -1,5 +1,38 @@
-<h1>This is the footer</h1>
+<footer class="justify-content-center">
+    <div class="container-fluid">
+        <div class="row col-12 justify-content-center text-center">
+            <hr class="col-9 footer-menu-hr">
+            <ul class="col-7" id="footer-menu">
+                <li>
+                    <a class="col-lg-2 col-sm-12" href="<?php echo base_url('home') ?>">Home</a>
+                </li>
 
+                <li>
+                    <a class="col-lg-2" href="<?php echo base_url('store') ?>">Store</a>
+                </li>
+
+                <li>
+                    <a class="col-lg-2" href="<?php echo base_url('services') ?>">Services</a>
+                </li>
+
+                <li>
+                    <a class="col-lg-2" href="<?php echo base_url('repairs') ?>">Repairs</a>
+                </li>
+
+                <li>
+                    <a class="col-lg-2" href="<?php echo base_url('location') ?>">Location</a>
+                </li>
+
+                <li>
+                    <a class="col-lg-2" href="<?php echo base_url('contact') ?>">Contact</a>
+                </li>
+            </ul>
+            <hr class="col-9 footer-menu-hr">
+        </div>
+
+
+    </div>
+</footer>
 
 
 
@@ -16,10 +49,10 @@
 
 <script type="text/javascript">
     const currentLocation = location.href;
-    const menuItem = document.querySelectorAll('a');
+    const menuItem = document.querySelectorAll('.nav-btn');
     const menuLength = menuItem.length
-    for (let i = 0; i<menuLength; i++){
-        if(menuItem[i].href === currentLocation){
+    for (let i = 0; i < menuLength; i++) {
+        if (menuItem[i].href === currentLocation) {
             menuItem[i].className = "nav-active"
         }
     }
