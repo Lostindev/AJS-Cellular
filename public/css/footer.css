@@ -11,12 +11,15 @@ hr {
 #footer-menu {
     display: flex;
     flex-direction: row;
-    margin-bottom: 0px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: 10px auto 10px auto;
   }
 #footer-menu li {
     display: inline-block;
     margin: 0 10px 0 10px;
     text-align: left;
+    line-height:40px;
     border-bottom-style: none;
     padding: 0;
     font-family: 'Poppins', sans-serif;

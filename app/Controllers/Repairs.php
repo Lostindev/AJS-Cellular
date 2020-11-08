@@ -14,7 +14,7 @@ class Repairs extends BaseController
         $data['page'] = $page;
 
         echo view('users/header', $data);
-        echo '<h2>This is the ' . $page . ' page' . "</h2>";
+        echo view('repairs', $data);
         echo view('users/footer', $data);
     }
     //--------------------------------------------------------------------

@@ -106,10 +106,10 @@ span.nav-toggle {
 }
 
 #logo-section {
-  min-height:5vh;
+  min-height:2vh;
 }
 
 .logo {
   object-fit: cover;
-  width:24vh;
+  width:33vh;
 }

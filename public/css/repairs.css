@@ -1,0 +1,36 @@
+
+#home-section {
+    min-height:90vh;
+    background-image: url('/img/iphone-broke-screen.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+
+.home-div {
+    margin-top:10vh;
+    margin-left:5vw;
+    border-radius:25px;
+    background-color: rgba(160, 158, 158, 0.5);
+    height:70vh;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    padding: 50px 50px 50px 50px;
+}
+
+#source-h1 {
+    color:white;
+    font-size: 4rem;
+}
+
+
+@media (hover:none) {
+    #home-section 
+   {
+    background-attachment:inital;
+    background-position: 75% 10%;
+    }
+
+
+}

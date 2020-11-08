@@ -13,7 +13,7 @@ class Store extends BaseController
         $data['page'] = $page;
 
         echo view('users/header', $data);
-        echo '<h2>This is the '.$page.' page'."</h2>";
+        echo view('store', $data);
         echo view('users/footer', $data);
     }
     //--------------------------------------------------------------------

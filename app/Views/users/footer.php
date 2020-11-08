@@ -1,8 +1,7 @@
 <footer class="justify-content-center">
     <div class="container-fluid">
         <div class="row col-12 justify-content-center text-center">
-            <hr class="col-9 footer-menu-hr">
-            <ul class="col-7" id="footer-menu">
+            <ul class="col-10" id="footer-menu">
                 <li>
                     <a class="col-lg-2 col-sm-12" href="<?php echo base_url('home') ?>">Home</a>
                 </li>
@@ -27,7 +26,6 @@
                     <a class="col-lg-2" href="<?php echo base_url('contact') ?>">Contact</a>
                 </li>
             </ul>
-            <hr class="col-9 footer-menu-hr">
         </div>
 
 
