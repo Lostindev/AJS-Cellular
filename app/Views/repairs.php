@@ -1,7 +1,7 @@
-<section class="align-items-end" id="home-section" name="home-section">
+<section class="align-items-end" id="homeSection" name="homeSection">
     <div class="container-fluid">
         <div class="row col-12 justify-content-center">
-            <div class="col-4 home-div text-center">
+            <div class="col-lg-4 homeDiv text-center">
                 <h1 class="col-12">Get a Repair Quote</h1>
 
                 <form>
