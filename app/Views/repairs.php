@@ -1,4 +1,5 @@
-<section class="align-items-end" id="homeSection" name="homeSection">
+<!--Get a quote section for quick service -->
+<section class="align-items-end" id="repairsSection" name="repairsSection">
     <div class="container-fluid">
         <div class="row col-12 justify-content-center">
             <div class="col-lg-4 homeDiv text-center">
@@ -29,6 +30,59 @@
 
         </div>
 
+    </div>
+</section>
+
+
+<!--Section for referencing specific information about each service.-->
+<section class="" id="rservicesSection" name="rservicesSection">
+    <div class="col-12 text-center">
+        <br>
+        <h1>We Offer Many Mobile Solutions</h1>
+        <br>
+    </div>
+    <div class="container-fluid">
+
+        <div class="row col-12 justify-content-center serviceDiv">
+            <div class="col-12" id="androidRepair">
+                <div class="d-flex text-center align-items-center blur-full col-12 justify-content-center">
+                    <a class="serviceA" href="/">
+                        <h1 class="serviceH1">Android Repairs</h1>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row col-12 justify-content-center serviceDiv">
+            <div class="col-12" id="batteryRepair">
+                <div class="d-flex text-center align-items-center blur-full col-12 justify-content-center">
+                    <a class="serviceA" href="/">
+                        <h1 class="serviceH1">Battery Repair</h1>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row col-12 justify-content-center serviceDiv">
+            <div class="col-12" id="screenRepair">
+                <div class="d-flex text-center align-items-center blur-full col-12 justify-content-center">
+                    <a class="serviceA" href="/">
+                        <h1 class="serviceH1">Screen Repair</h1>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row col-12 justify-content-center serviceDiv">
+            <div class="col-12" id="waterRepair">
+                <div class="d-flex text-center align-items-center blur-full col-12 justify-content-center">
+                    <a class="serviceA" href="/">
+                        <h1 class="serviceH1">Water Damage Repair</h1>
+                    </a>
+                </div>
+            </div>
+        </div>
 
 
     </div>

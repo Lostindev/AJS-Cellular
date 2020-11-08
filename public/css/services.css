@@ -44,6 +44,11 @@
     padding:25px 25px 15px 13px;
 }
 
+.serviceA:hover {
+    text-decoration-color:#f15f4b;
+    border-color:#f15f4b;
+}
+
 .serviceDiv {
     padding:0!important;
     margin:0!important;

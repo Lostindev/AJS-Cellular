@@ -1,5 +1,5 @@
 
-#homeSection {
+#repairsSection {
     min-height:90vh;
     background-image: url('/img/iphone-broke-screen-blur.jpg');
     background-size: cover;
@@ -16,21 +16,85 @@
     min-height:70vh;
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
-    padding: 25px 50px 25px 50px;
+    padding: 25px 50px 0px 50px;
 }
-
-#source-h1 {
-    color:white;
-    font-size: 4rem;
-}
-
 
 @media (hover:none) {
-    #home-section 
-   {
-    background-attachment:inital;
-    background-position: 75% 10%;
+    #home-section {
+        background-attachment:inital;
+        background-position: 75% 10%;
     }
 
+    .blur-full {
+        padding:50px;
+    }
+}
 
+#androidRepair {
+    background-image: url('/img/androidrImage.webp');
+    display:flex;
+    width:auto;
+    background-size: cover;
+    min-height: 15vw;
+    background-position:center;
+    padding:0;
+}
+
+#batteryRepair {
+    background-image: url('/img/batteryrImage.webp');
+    width:auto;
+    display:flex;
+    background-size: cover;
+    min-height: 15vw;
+    background-position:center;
+    padding:0;
+}
+
+#screenRepair {
+    background-image: url('/img/screenrImage.webp');
+    display:flex;
+    width:auto;
+    background-size: cover;
+    min-height: 15vw;
+    background-position:center;
+    padding:0;
+}
+
+#waterRepair {
+    background-image: url('/img/waterrImage.webp');
+    display:flex;
+    width:auto;
+    background-size: cover;
+    min-height: 15vw;
+    background-position:center;
+    padding:0;
+}
+
+.serviceA {
+    border: 2px solid white;
+    border-radius:20px;
+    padding:25px 25px 15px 13px;
+}
+
+.serviceA:hover {
+    text-decoration-color:#f15f4b;
+    border-color:#f15f4b;
+}
+
+.serviceDiv {
+    padding:0!important;
+    margin:0!important;
+}
+
+.serviceH1 {
+    color:white;
+}
+
+.blur-full {
+    height:100%;
+    width:100%;
+    background-color: rgba(119, 119, 119, 0.3);
+    -webkit-backdrop-filter: blur(3px);
+    backdrop-filter: blur(3px);
+    
 }
