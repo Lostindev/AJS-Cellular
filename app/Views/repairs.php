@@ -6,15 +6,15 @@
 
                 <form>
                     <div class="form-group">
-                        <label for="exampleFormControlSelect1">Android or iOS:</label>
-                        <select class="form-control" id="exampleFormControlSelect1">
+                        <label for="osSelect">Android or iOS:</label>
+                        <select class="form-control" id="osSelect">
                             <option>iOS</option>
                             <option>Android</option>
                         </select>
                     </div>
                     <div class="form-group">
-                        <label for="exampleFormControlSelect2">Select a Device:</label>
-                        <select class="form-control" id="exampleFormControlSelect2">
+                        <label for="iosSelect">Select a Device:</label>
+                        <select class="form-control" id="iosSelect">
                             <option>iPhone 6s</option>
                             <option>iPhone 6s Plus</option>
                         </select>
@@ -23,7 +23,6 @@
                         <label for="exampleFormControlTextarea1">Describe the issue:</label>
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                     </div>
-                    <br>
                     <button type="submit" class="btn btn-danger">Submit</button>
                 </form>
             </div>

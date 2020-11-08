@@ -1,0 +1,69 @@
+#activateService {
+    background-image: url('/img/activateImage.webp');
+    width:auto;
+    display:flex;
+    background-size: cover;
+    min-height: 15vw;
+    background-position:center;
+    padding:0;
+}
+
+#flashingService {
+    background-image: url('/img/sim-flashing.webp');
+    display:flex;
+    width:auto;
+    background-size: cover;
+    min-height: 15vw;
+    background-position:center;
+    padding:0;
+}
+
+#jailbreakService {
+    background-image: url('/img/jailbreakImage.webp');
+    display:flex;
+    width:auto;
+    background-size: cover;
+    min-height: 15vw;
+    background-position:center;
+    padding:0;
+}
+
+#sellphoneService {
+    background-image: url('/img/sellphoneImage.webp');
+    display:flex;
+    width:auto;
+    background-size: cover;
+    min-height: 15vw;
+    background-position:center;
+    padding:0;
+}
+
+.serviceA {
+    border: 2px solid white;
+    border-radius:20px;
+    padding:25px 25px 15px 13px;
+}
+
+.serviceDiv {
+    padding:0!important;
+    margin:0!important;
+}
+
+.serviceH1 {
+    color:white;
+}
+
+.blur-full {
+    height:100%;
+    width:100%;
+    background-color: rgba(119, 119, 119, 0.3);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    
+}
+
+@media (hover:none) {
+    .blur-full {
+        padding:50px;
+    }
+}
