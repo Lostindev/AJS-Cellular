@@ -13,10 +13,10 @@
     margin-left:5vw;
     border-radius:25px;
     background-color: rgba(160, 158, 158, 0.5);
-    height:70vh;
+    min-height:70vh;
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
-    padding: 50px 50px 50px 50px;
+    padding: 15px 50px 15px 50px;
 }
 
 #source-h1 {
@@ -24,6 +24,9 @@
     font-size: 4rem;
 }
 
+.col-12 h3 {
+    color:white;
+}
 
 @media (hover:none) {
     #home-section 
