@@ -41,7 +41,7 @@
         <h1>We Offer Many Mobile Solutions</h1>
         <br>
     </div>
-    <div class="container-fluid">
+    <div class="container-fluid serviceDiv">
 
         <div class="row col-12 justify-content-center serviceDiv">
             <div class="col-12" id="androidRepair">

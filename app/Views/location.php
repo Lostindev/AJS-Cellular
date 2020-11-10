@@ -1,6 +1,6 @@
 <section name="location">
     <div class="row col-12 justify-content-center serviceDiv">
-        <div class="col-12" id="locationDiv">
+        <div class="col-lg-6 col-sm-9" id="locationDiv">
             <div class="d-flex text-center align-items-center blur-full col-12 justify-content-center">
                 <h1 class="locationH1">Location</h1>
             </div>
