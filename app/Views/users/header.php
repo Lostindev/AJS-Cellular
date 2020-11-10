@@ -92,10 +92,6 @@
                 <a href="<?php echo base_url('/location') ?>" class="nav-btn">
                     <li>Location</li>
                 </a>
-
-                <a href="<?php echo base_url('/contact') ?>" class="nav-btn">
-                    <li>Contact</li>
-                </a>
             </ul>
         </nav>
     </header>

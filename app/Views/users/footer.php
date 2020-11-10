@@ -1,29 +1,25 @@
 <footer class="justify-content-center">
     <div class="container-fluid">
-        <div class="row col-12 justify-content-center text-center">
+        <div style="margin:0!important; padding:0!important;" class="row col-12 justify-content-center text-center">
             <ul class="col-10" id="footer-menu">
                 <li>
                     <a class="col-lg-2 col-sm-12" href="<?php echo base_url('home') ?>">Home</a>
                 </li>
 
                 <li>
-                    <a class="col-lg-2" href="<?php echo base_url('store') ?>">Store</a>
+                    <a class="col-auto" href="<?php echo base_url('store') ?>">Store</a>
                 </li>
 
                 <li>
-                    <a class="col-lg-2" href="<?php echo base_url('services') ?>">Services</a>
+                    <a class="col-auto" href="<?php echo base_url('services') ?>">Services</a>
                 </li>
 
                 <li>
-                    <a class="col-lg-2" href="<?php echo base_url('repairs') ?>">Repairs</a>
+                    <a class="col-auto" href="<?php echo base_url('repairs') ?>">Repairs</a>
                 </li>
 
                 <li>
-                    <a class="col-lg-2" href="<?php echo base_url('location') ?>">Location</a>
-                </li>
-
-                <li>
-                    <a class="col-lg-2" href="<?php echo base_url('contact') ?>">Contact</a>
+                    <a class="col-auto" href="<?php echo base_url('location') ?>">Location</a>
                 </li>
             </ul>
         </div>
