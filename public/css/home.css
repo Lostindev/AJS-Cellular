@@ -66,3 +66,9 @@
     }
 
 }
+
+@media only screen and (max-width: 800px) {
+    .aboutContainerDiv {
+        padding:5px 10px 60px 10px;
+    }
+}
