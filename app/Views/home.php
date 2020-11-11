@@ -1,8 +1,8 @@
-<section class="align-items-end" id="home-section" name="home-section">
+<section class="d-flex align-items-center" id="home-section" name="home-section">
     <div class="container-fluid">
-        <div class="row col-8">
-            <div class="col-auto home-headers">
-                <!--<h1 id="source-h1">#1 Source<br> &nbsp;&nbsp;&nbsp; for Mobile Solutions</h1>-->
+        <div class="row noStyle col-auto text-center">
+            <div class="col-lg-12 home-headers">
+                <h1 class="blurFull" id="source-h1">#1 Source for Mobile Solutions</h1>
             </div>
 
         </div>
