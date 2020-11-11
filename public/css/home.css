@@ -31,6 +31,29 @@
     margin:0!important;
 }
 
+#aboutDiv {
+    margin-top:25px;
+
+}
+
+#whyH1 {
+    padding-top:0;
+    padding-bottom:15px;
+}
+
+#imgPhone {
+    border-radius:25px;
+}
+
+.aboutContainerDiv {
+    padding:60px 30px 60px 90px;
+}
+
+#aboutPicDiv {
+    margin-top:25px;
+}
+
+
 @media (hover:none) {
     #home-section 
    {
