@@ -20,9 +20,9 @@
 }
 
 @media (hover:none) {
-    #home-section {
-        background-attachment:inital;
-        background-position: 75% 10%;
+    #repairsSection {
+        background-attachment: initial;
+        background-position: 50% 0%;
     }
 
     .blur-full {
