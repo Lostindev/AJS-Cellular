@@ -1,20 +1,18 @@
-function activateFunction() {
-    var x = document.getElementById("activateServiceHidden");
-    x.classList.toggle('hide');
-}
 
-function flashingFunction() {
-    var x = document.getElementById("flashingServiceHidden");
-    x.classList.toggle('hide');
-}
+$(document).ready(function () {
+    $("#activateA").click(function () {
+        $("#activateServiceHidden").slideToggle();
+    });
 
-function jailbreakFunction() {
-    var x =document.getElementById("jailbreakServiceHidden");
-    x.classList.toggle('hide');
-}
+    $("#flashingA").click(function () {
+        $("#flashingServiceHidden").slideToggle();
+    });
 
- function sellingFunction() {
-     var x = document.getElementById("sellingServiceHidden");
-     x.classList.toggle('hide');
-}
+    $("#jailbreakA").click(function () {
+        $("#jailbreakServiceHidden").slideToggle();
+    });
 
+    $("#sellingA").click(function () {
+        $("#sellingServiceHidden").slideToggle();
+    });
+});

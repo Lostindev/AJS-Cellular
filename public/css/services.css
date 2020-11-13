@@ -73,6 +73,14 @@
 #jailbreakServiceHidden,
 #sellingServiceHidden {
     padding-top:25px;
+    transition: visibility 0s, opacity 2s linear;
+}
+
+#activateServiceHidden.hide, 
+#flashingServiceHidden.hide,
+#jailbreakServiceHidden.hide,
+#sellingServiceHidden.hide {
+    padding-top:25px;
 }
 
  .hide { 

@@ -1,9 +1,8 @@
 <section name="services">
-
     <div class="row col-12 text-center justify-content-center serviceDiv" name="activate">
         <div class="col-12" id="activateService">
             <div class="d-flex text-center align-items-center blur-full col-12 justify-content-center">
-                <a class="serviceA" href=#activate" onclick="activateFunction()">
+                <a class="serviceA" id="activateA" href=#activate" onclick="activateFunction()">
                     <h1 class="serviceH1">Activate a Device</h1>
                 </a>
             </div>
@@ -16,7 +15,7 @@
     <div class="row col-12 text-center justify-content-center serviceDiv" name="flashing">
         <div class="col-12" id="flashingService">
             <div class="d-flex text-center align-items-center blur-full col-12 justify-content-center">
-                <a class="serviceA" href="#flashing" onclick="flashingFunction()">
+                <a class="serviceA" id="flashingA" href="#flashing" onclick="flashingFunction()">
                     <h1 class="serviceH1">Flashing & Unlocking</h1>
                 </a>
             </div>
@@ -29,7 +28,7 @@
     <div class="row col-12 text-center justify-content-center serviceDiv" name="jailbreak">
         <div class="col-12" id="jailbreakService">
             <div class="d-flex text-center align-items-center blur-full col-12 justify-content-center">
-                <a class="serviceA" href="#jailbreak" onclick="jailbreakFunction()">
+                <a class="serviceA" id="jailbreakA" href="#jailbreak" onclick="jailbreakFunction()">
                     <h1 class="serviceH1">Jailbreaking</h1>
                 </a>
             </div>
@@ -42,7 +41,7 @@
     <div class="row col-12 text-center justify-content-center serviceDiv" name="sellyourphone">
         <div class="col-12" id="sellphoneService">
             <div class="d-flex text-center align-items-center blur-full col-12 justify-content-center">
-                <a class="serviceA clickable" href="#sellyourphone" onclick="sellingFunction()" >
+                <a class="serviceA" id="sellingA" href="#sellyourphone" onclick="sellingFunction()" >
                     <h1 class="serviceH1">Sell Your Phone</h1>
                 </a>
             </div>
