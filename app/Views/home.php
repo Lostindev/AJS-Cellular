@@ -39,6 +39,30 @@
                 </div>
 
             </div>
+
+            <div class="row col-12 aboutAjRow justify-content-center">
+                <div class="col-lg-4" id="aboutAjDiv">
+                    <div class="text-center align-items-center aboutAjStyle col-12 justify-content-center">
+                        <i class="col-12 fas fa-5x fa-tachometer-alt"></i>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis commodi ipsam sed tempore officia est quibusdam voluptates totam natus dicta quae, culpa ex accusamus officiis vero? Hic, a? Sed tenetur quis quas enim! Tempore, maxime! Labore assumenda alias iusto id.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4" id="aboutAjDiv">
+                    <div class="text-center align-items-center aboutAjStyle col-12 justify-content-center">
+                        <i class="col-12 fas fa-5x fa-user-check"></i>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis commodi ipsam sed tempore officia est quibusdam voluptates totam natus dicta quae, culpa ex accusamus officiis vero? Hic, a? Sed tenetur quis quas enim! Tempore, maxime! Labore assumenda alias iusto id.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4" id="aboutAjDiv">
+                    <div class="text-center align-items-center aboutAjStyle col-12 justify-content-center">
+                        <i class="fas fa-5x fa-map-marked-alt"></i>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis commodi ipsam sed tempore officia est quibusdam voluptates totam natus dicta quae, culpa ex accusamus officiis vero? Hic, a? Sed tenetur quis quas enim! Tempore, maxime! Labore assumenda alias iusto id.</p>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
 
