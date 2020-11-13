@@ -13,7 +13,7 @@
 }
 
 .aboutAjRow {
-    margin: 70px 0px 0px 0px;
+    margin: 70px 0px 50px 0px!important;
     background-color:lightgray;
     border-radius:25px;
 }
@@ -24,11 +24,15 @@
 }
 
 .aboutAjStyle {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.815);
     -webkit-backdrop-filter: blur(2px);
     backdrop-filter: blur(2px);
     border-radius:25px;
     padding:25px 50px 25px 50px;
+}
+
+.aboutAjStyle i {
+    padding-bottom:20px;
 }
 
 
@@ -72,7 +76,6 @@
     margin-top:25px;
 }
 
-
 @media (hover:none) {
     #home-section 
    {
@@ -87,5 +90,12 @@
 }
 
 @media only screen and (max-width: 800px) {
+    .aboutContainerDiv {
+        padding:60px 0px 60px 0px;
+    }
 
+    .aboutAjRow {
+        margin-right:0;
+        margin-left:0;
+    }
 }
