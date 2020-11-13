@@ -67,6 +67,18 @@
     
 }
 
+
+#activateServiceHidden, 
+#flashingServiceHidden,
+#jailbreakServiceHidden,
+#sellingServiceHidden {
+    padding-top:25px;
+}
+
+ .hide { 
+    display: none; 
+}
+
 @media (hover:none) {
     .blur-full {
         padding:50px;

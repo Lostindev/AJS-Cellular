@@ -7,10 +7,13 @@
     <meta name="description" content="<?php echo $description ?>">
     <title><?php echo $title ?></title>
 
-    <!--Local Files-->
+    <!--Local CSS-->
     <link rel="stylesheet" href="/css/header.css">
     <link rel="stylesheet" href="/css/footer.css">
     <link rel="stylesheet" href="/css/<?php echo $page ?>.css">
+
+    <!--Local Javascript-->
+    <script src="/js/servicePageFunctions.js" defer></script>
     
 
     <!-- Bootstrap 4 load from CDN -->
