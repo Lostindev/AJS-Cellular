@@ -7,7 +7,7 @@
                 </a>
             </div>
         </div>
-        <div class="col-8 hide" id="activateServiceHidden">
+        <div class="col-lg-8 hide" id="activateServiceHidden">
             <h1 class="col-12">This is Activation</h1>
         </div>
     </div>
@@ -20,7 +20,7 @@
                 </a>
             </div>
         </div>
-        <div class="col-8 hide" id="flashingServiceHidden">
+        <div class="col-8-lg hide" id="flashingServiceHidden">
             <h1 class="col-12">This is Flashing & Unlocking</h1>
         </div>
     </div>
@@ -33,7 +33,7 @@
                 </a>
             </div>
         </div>
-        <div class="col-8 hide" id="jailbreakServiceHidden">
+        <div class="col-lg-8 hide" id="jailbreakServiceHidden">
             <h1 class="col-12">This is Jailbreaking</h1>
         </div>
     </div>
@@ -46,8 +46,8 @@
                 </a>
             </div>
         </div>
-        <div class="col-8 hide" id="sellingServiceHidden">
-            <h1 class="col-12">This is how you turn your phone into cash</h1>
+        <div class="col-lg-8 hide" id="sellingServiceHidden">
+            <h1 class="col-12">Same Day Cash For Phones</h1>
         </div>
     </div>
 

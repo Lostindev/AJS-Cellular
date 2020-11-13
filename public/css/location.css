@@ -15,7 +15,7 @@
 
 #locationDiv {
     background-image: url('/img/location.jpg');
-    width:auto;
+    width:100%;
     display:flex;
     background-size: cover;
     min-height: 10vw;
@@ -47,6 +47,10 @@
 @media (hover:none) {
     .blur-full {
         padding:50px;
+    }
+
+    .serviceDiv {
+        padding: 0px 15px 0px 15px!important;
     }
 }
 
