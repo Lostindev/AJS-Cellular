@@ -33,6 +33,18 @@ hr {
     color: black;
 }
 
+#signedDiv {
+    padding-bottom:10px;
+}
+
+#signedLink {
+    color:white!important;
+    font-size:14px;
+}
+
+
+
+
     @media (hover: none) {
 
 

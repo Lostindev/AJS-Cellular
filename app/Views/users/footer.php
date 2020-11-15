@@ -22,8 +22,11 @@
                     <a class="col-auto" href="<?php echo base_url('location') ?>">Location</a>
                 </li>
             </ul>
-        </div>
 
+            <div class="col-12 text-center" id="signedDiv">
+                <a id="signedLink" target="_blank" href="https://pivotgrowth.io">Website Design by <span id="signedSpan">pivotgrowth.io</span></a>
+            </div>
+        </div>
 
     </div>
 </footer>
