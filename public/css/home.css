@@ -35,6 +35,33 @@
     padding-bottom:20px;
 }
 
+.reviewsRow {
+    margin: 70px 0px 50px 0px!important;
+    border-radius:25px;
+    background-color:lightgray;
+}
+
+.reviewsStyle {
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+#reviewSpan {
+    background-color:whitesmoke;
+    border-radius:25px;
+}
+
+.reviewText {
+    padding:20px 20px 0px 20px;
+}
+
+.reviewI {
+    background-color: #f15e4bd5;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-right: 2px solid black;
+    padding:35px 25px 25px 25px;
+}
 
 .blurFull {
     background-color: rgba(119, 119, 119, 0.5);
