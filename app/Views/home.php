@@ -71,17 +71,17 @@
                 <div class="col-lg-12" id="reviewsDiv">
                     <div class="text-center reviewsStyle row justify-content-center">
                         <span id="reviewSpan" class="row">
-                            <div class="col-4 reviewI">
-                                <i class="fas fa-3x fa-star"></i>
-                                <i class="fas fa-3x fa-star"></i>
-                                <i class="fas fa-3x fa-star"></i>
-                                <i class="fas fa-3x fa-star"></i>
-                                <i class="fas fa-3x fa-star"></i>
+                            <div class="col-lg-3 reviewI">
+                                <i class="fas fa-2x fa-star gold"></i>
+                                <i class="fas fa-2x fa-star gold"></i>
+                                <i class="fas fa-2x fa-star gold"></i>
+                                <i class="fas fa-2x fa-star gold"></i>
+                                <i class="fas fa-2x fa-star gold"></i>
                             </div>
-                            <div class="col-8 reviewText">
+                            <div class="col-lg-9 reviewText">
                                 <blockquote>Always prompt service. Very knowledgeable about plans, phones etc. Great customer service.</blockquote>
                                 <div class="col-12 text-right">
-                                    <p>- Tamara King</p>
+                                    <p><b>- Tamara King</b></p>
                                 </div>
                             </div>
                         </span>
