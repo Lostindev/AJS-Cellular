@@ -44,21 +44,21 @@
         <div class="container-fluid">
             <div class="row col-12 aboutAjRow justify-content-center">
                 <div class="col-lg-4" id="aboutAjDiv">
-                    <div class="text-center align-items-center aboutAjStyle col-12 justify-content-center">
+                    <div class="text-center h-100 align-items-center aboutAjStyle col-12 justify-content-center">
                         <i class="col-12 fas fa-5x fa-tachometer-alt"></i>
                         <p>Our reputation for fast and quality service has made us the best-rated cell phone store in the Akron and Canton area. We are proud to be the customer's choice for phone repairs and services. </p>
                     </div>
                 </div>
 
                 <div class="col-lg-4" id="aboutAjDiv">
-                    <div class="text-center align-items-center aboutAjStyle col-12 justify-content-center">
+                    <div class="text-center h-100 align-items-center aboutAjStyle col-12 justify-content-center">
                         <i class="col-12 fas fa-5x fa-check-circle"></i>
                         <p>As an Official AppleCare Repair Center you can trust us to get the job done right. </p>
                     </div>
                 </div>
 
                 <div class="col-lg-4" id="aboutAjDiv">
-                    <div class="text-center align-items-center aboutAjStyle col-12 justify-content-center">
+                    <div class="text-center h-100 align-items-center aboutAjStyle col-12 justify-content-center">
                         <i class="fas fa-5x fa-map-marked-alt"></i>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis commodi ipsam sed tempore officia est quibusdam voluptates totam natus dicta quae, culpa ex accusamus officiis vero? Hic, a? Sed tenetur quis quas enim! Tempore, maxime! Labore assumenda alias iusto id.</p>
                     </div>
@@ -69,7 +69,7 @@
         <div class="container-fluid d-flex justify-content-center">
             <div class="row col-10 reviewsRow text-center justify-content-center">
                 <div class="col-sm-6 col-md-4">
-                    <div class="testimonial-box blurFull">
+                    <div class="testimonial-box blurFull h-100">
                         <img src="/img/reviewGoogleOne.png" class="img-responsive" alt="" width="90">
                         <div class="ratings-icons">
                             <span class="glyphicon glyphicon-star"></span>
@@ -90,7 +90,7 @@
                 </div> <!-- End Col -->
 
                 <div class="col-sm-6 col-md-4">
-                    <div class="testimonial-box blurFull">
+                    <div class="testimonial-box blurFull h-100">
                         <img src="https://images.pexels.com/photos/478544/pexels-photo-478544.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" class="img-responsive" alt="" width="90">
                         <div class="ratings-icons">
                             <span class="glyphicon glyphicon-star"></span>
@@ -106,7 +106,7 @@
                 </div> <!-- End Col -->
 
                 <div class="col-sm-6 col-md-4">
-                    <div class="testimonial-box blurFull">
+                    <div class="testimonial-box blurFull h-100">
                         <img src="https://images.pexels.com/photos/478544/pexels-photo-478544.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" class="img-responsive" alt="" width="90">
                         <div class="ratings-icons">
                             <span class="glyphicon glyphicon-star"></span>
