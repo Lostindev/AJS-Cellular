@@ -1,0 +1,188 @@
+
+
+#homeDiv {
+    background-image: url('/img/home-blur.webp');
+    width:auto;
+    display:flex;
+    background-size: cover;
+    min-height: 10vw;
+    background-position:center;
+    padding:0;
+    border-radius:40px;
+    background-position: 50% 20%;
+}
+
+.aboutAjRow {
+    margin: 70px 0px 50px 0px!important;
+    background-color:lightgray;
+    border-radius:25px;
+}
+
+#aboutAjDiv {
+    padding: 35px 15px 35px 15px;
+
+}
+
+.aboutAjStyle {
+    background-color: #f15e4ba2;
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+    border-radius:25px;
+    padding:25px 50px 25px 50px;
+}
+
+.aboutAjStyle i {
+    padding-bottom:20px;
+}
+
+.reviewsDiv {
+    padding-left:0!important;
+    padding-right:0!important;
+}
+
+.reviewsRow {
+    margin: 70px 0px 50px 0px!important;
+    border-radius:25px;
+    background-color:lightgray;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+
+.reviewsStyle {
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+#reviewSpan {
+    background-color:whitesmoke;
+    border-radius:25px;
+}
+
+.reviewText {
+    padding:20px 20px 0px 20px;
+}
+
+.reviewI {
+    background-color: #f15e4bd5;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-right: 2px solid black;
+}
+
+.blurFull {
+    background-color: rgba(119, 119, 119, 0.5);
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+    border-radius:40px;
+    padding:40px 50px 25px 50px;
+}
+
+.gold {
+    color:gold;
+    opacity:.8;
+}
+
+#homeH1 {
+    color:white;
+    font-size: 3.5rem;
+}
+
+.noStyle {
+    padding:0!important;
+    margin:0!important;
+}
+
+#aboutDiv {
+    margin-top:25px;
+
+}
+
+#whyH1 {
+    padding-top:0;
+    padding-bottom:15px;
+}
+
+#imgPhone {
+    border-radius:25px;
+}
+
+.aboutContainerDiv {
+    padding:60px 30px 60px 90px;
+}
+
+#aboutPicDiv {
+    margin-top:25px;
+}
+
+.no-left-right {
+    padding-left:0px!important;
+    padding-right:0px!important;
+}
+
+
+i {
+    font-size:22px;
+}
+
+.testimonial-box {
+    background-color:whitesmoke;
+}
+
+.testimonial-box img {
+    display: inline-block;
+    width: 90px;
+    height:90px;
+    border-radius: 50%;
+    margin: 0 0 15px;
+}
+.testimonial-box h4 {
+    color: #f15f4b;
+}
+.testimonial-box p {
+    margin-bottom: 20px;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 400;
+}
+.ratings-icons {
+    color: #fec42d;
+    margin-bottom: 15px;
+}
+
+@media (hover:none) {
+    #home-section 
+   {
+    background-attachment:inital;
+    background-position: 75% 10%;
+    }
+
+    #homeH1 {
+        font-size:3rem
+    }
+
+}
+
+@media only screen and (max-width: 800px) {
+    .aboutContainerDiv {
+        padding:60px 0px 60px 0px;
+    }
+
+    .aboutAjRow {
+        margin-right:0;
+        margin-left:0;
+    }
+
+    .reviewI {
+        background-color: #f15e4bd5;
+        border-top-left-radius: 25px;
+        border-top-right-radius:25px;
+        border-bottom-left-radius: 0px!important;
+        border-right: none;
+        padding:35px 25px 25px 25px;
+    }
+
+    .reviewsRow {
+        padding-right:0!important;
+        padding-left:0!important;
+    }
+}
