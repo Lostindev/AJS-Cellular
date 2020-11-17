@@ -35,7 +35,7 @@
                 </div>
 
                 <div class="col-lg-6" id="aboutPicDiv">
-                    <img class="img-fluid" id="imgPhone" src="/img/kingdom-phone.jpg">
+                    <img class="img-fluid" id="imgPhone" alt="We know how important your phone is." src="/img/kingdom-phone.jpg"> 
                 </div>
 
             </div>
