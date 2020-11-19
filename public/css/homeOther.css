@@ -92,9 +92,12 @@
     margin:0!important;
 }
 
-#aboutDiv {
-    margin-top:25px;
+.btn-home {
+    color: #f15f4b!important;
+}
 
+.btn-home:hover {
+    color: white!important;
 }
 
 #whyH1 {

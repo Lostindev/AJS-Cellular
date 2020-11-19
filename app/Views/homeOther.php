@@ -30,8 +30,11 @@
                                 <h3>&nbsp; Located at 790 N Main St, Akron, Ohio</h3>
                             </li><br>
                         </div>
-
+                        <div class="col-12 text-center justify-content-center">
+                            <a href="tel:330-962-4434" class="btn btn-lg btn-outline-danger btn-home">Call Now</a>
+                        </div>
                     </span>
+
                 </div>
 
                 <div class="col-lg-6" id="aboutPicDiv">

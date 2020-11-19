@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://18.224.138.115/';
+	public $baseURL = 'https://ajscellular.com/';
 
 	/*
 	|--------------------------------------------------------------------------
