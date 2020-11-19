@@ -35,7 +35,7 @@
                 </div>
 
                 <div class="col-lg-6" id="aboutPicDiv">
-                    <img class="img-fluid" id="imgPhone" alt="We know how important your phone is." src="/img/kingdom-phone.jpg"> 
+                    <img class="img-fluid" id="imgPhone" alt="We know how important your phone is." src="/img/kingdom-phone.jpg">
                 </div>
 
             </div>
@@ -46,7 +46,7 @@
                 <div class="col-lg-4" id="aboutAjDiv">
                     <div class="text-center h-100 align-items-center aboutAjStyle col-12 justify-content-center">
                         <i class="col-12 fas fa-5x fa-tachometer-alt"></i>
-                        <p>Our reputation for fast and quality service has made us the best-rated cell phone store in the Akron and Canton area. We are proud to be the customer's choice for phone repairs and services. </p>
+                        <p>Our reputation for fast and quality service has made us the best-rated cell phone store in the Akron and Canton area. We are proud to be the customer's choice for phone repairs and service. </p>
                     </div>
                 </div>
 
@@ -70,7 +70,7 @@
             <div class="row col-10 reviewsRow text-center justify-content-center">
                 <div class="col-sm-6 col-md-4">
                     <div class="testimonial-box blurFull h-100">
-                        <img src="/img/reviewGoogleOne.png" class="img-responsive" alt="" width="90">
+                        <img src="/img/reviewGoogleOne.png" class="img-responsive" alt="Review One" width="90">
                         <div class="ratings-icons">
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
@@ -91,7 +91,7 @@
 
                 <div class="col-sm-6 col-md-4">
                     <div class="testimonial-box blurFull h-100">
-                        <img src="https://images.pexels.com/photos/478544/pexels-photo-478544.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" class="img-responsive" alt="" width="90">
+                        <img src="/img/reviewGoogleTwo.png" class="img-responsive" alt="Google Review Two" width="90">
                         <div class="ratings-icons">
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
@@ -99,15 +99,20 @@
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
                         </div>
-                        <h4>Jon Doe</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sapien augue, dictum et gravida et</p>
+                        <h4>Erik Wagner</h4>
+                        <p>Highly recommended!!! His service is impeccable.. Free phones and cheap service couldn't be happier.</p>
+                        <i class="fas fa-star gold"></i>
+                        <i class="fas fa-star gold"></i>
+                        <i class="fas fa-star gold"></i>
+                        <i class="fas fa-star gold"></i>
+                        <i class="fas fa-star gold"></i>
 
                     </div>
                 </div> <!-- End Col -->
 
                 <div class="col-sm-6 col-md-4">
                     <div class="testimonial-box blurFull h-100">
-                        <img src="https://images.pexels.com/photos/478544/pexels-photo-478544.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" class="img-responsive" alt="" width="90">
+                        <img src="/img/reviewGoogleThree.png" class="img-responsive" alt="Google Review 3" width="90">
                         <div class="ratings-icons">
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
@@ -115,17 +120,18 @@
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
                         </div>
-                        <h4>Maria Jose</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sapien augue, dictum et gravida et</p>
-
+                        <h4>Paige Winters</h4>
+                        <p>I don’t write reviews so for me to take the time to write a review says a lot. This place is absolutely amazingggggg! I cant say enough and I would give more than 5 stars is possible. I will definitely be back and spread the word!!</p>
+                        <i class="fas fa-star gold"></i>
+                        <i class="fas fa-star gold"></i>
+                        <i class="fas fa-star gold"></i>
+                        <i class="fas fa-star gold"></i>
+                        <i class="fas fa-star gold"></i>
                     </div>
                 </div> <!-- End Col -->
             </div>
 
         </div>
     </div>
-
-
-
     </div>
 </section>
