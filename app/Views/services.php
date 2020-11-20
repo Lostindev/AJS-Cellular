@@ -39,7 +39,7 @@
             <div class="col-12"><i class="fas fa-5x fa-unlock-alt"></i></div><br>
             <h1 class="col-12">Phone Flashing & Unlocking</h1>
             <div class="row col-12 justify-content-center sellServiceRow serviceDiv ">
-                <p class="col-lg-4">We can flash or unlock your phone and use the service provider you prefer. There are many things to to factor in when determining if your device is eligble. <br>The easiest way to get the answers you need is to call us at <a style="color:#f15f4b!important" href="tel:330-962-4434">330-962-4434</a> .
+                <p class="col-lg-4">We can flash or unlock your phone allowing you to use the service provider you prefer. There are many things to to factor in when determining if your device is eligble. <br>The easiest way to get the answers you need is to call us at <a style="color:#f15f4b!important" href="tel:330-962-4434">330-962-4434</a> .
                 <br>
                 We are looking forward to unlocking or flashing your phone to your needs!
                 </p>

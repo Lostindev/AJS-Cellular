@@ -147,6 +147,9 @@ i {
     font-style: italic;
     font-weight: 400;
 }
+
+
+
 .ratings-icons {
     color: #fec42d;
     margin-bottom: 15px;
@@ -188,4 +191,9 @@ i {
         padding-right:0!important;
         padding-left:0!important;
     }
+
+    .reviewCol {
+        padding-top:25px;
+        padding-bottom:25px;
+}
 }

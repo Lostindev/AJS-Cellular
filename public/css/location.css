@@ -48,6 +48,11 @@ iframe {
     max-width: 100vw;
 }
 
+.noStyle {
+    margin: 0!important;
+    padding:0!important;
+}
+
 @media (hover:none) {
     .blur-full {
         padding:50px;

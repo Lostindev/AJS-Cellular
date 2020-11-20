@@ -49,29 +49,29 @@
                 <div class="col-lg-4" id="aboutAjDiv">
                     <div class="text-center h-100 align-items-center aboutAjStyle col-12 justify-content-center">
                         <i class="col-12 fas fa-5x fa-tachometer-alt"></i>
-                        <p>Our reputation for fast and quality service has made us the best-rated cell phone store in the Akron and Canton area. We are proud to be the customer's choice for phone repairs and service. </p>
+                        <p>Get your phone screen replaced in as little as 10 minutes! <br>Our reputation for fast and quality service has made us the best-rated cell phone store in the Akron and Canton area. We are proud to be the customer's choice for phone repairs and service. </p>
                     </div>
                 </div>
 
                 <div class="col-lg-4" id="aboutAjDiv">
                     <div class="text-center h-100 align-items-center aboutAjStyle col-12 justify-content-center">
                         <i class="col-12 fas fa-5x fa-check-circle"></i>
-                        <p>As an Official AppleCare Repair Center you can trust us to get the job done right. </p>
+                        <p>As an Official AppleCare Repair Center you can trust us to get the job done right. <br>We only use Grade A parts for repairs, and we stay up to date on all of Apple's guidelines for device repairs. </p>
                     </div>
                 </div>
 
                 <div class="col-lg-4" id="aboutAjDiv">
                     <div class="text-center h-100 align-items-center aboutAjStyle col-12 justify-content-center">
                         <i class="fas fa-5x fa-map-marked-alt"></i>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis commodi ipsam sed tempore officia est quibusdam voluptates totam natus dicta quae, culpa ex accusamus officiis vero? Hic, a? Sed tenetur quis quas enim! Tempore, maxime! Labore assumenda alias iusto id.</p>
+                        <p>AJ's Cellular has been servicing Akron and surrounding areas for over 10 years now! <br> As a locally owned business we pride ourselves in being the #1 source for mobile solutions for our community. </p>
                     </div>
                 </div>
             </div>
         </div>
 
         <div class="container-fluid d-flex justify-content-center">
-            <div class="row col-10 reviewsRow text-center justify-content-center">
-                <div class="col-sm-6 col-md-4">
+            <div class="row col-11 reviewsRow text-center justify-content-center">
+                <div class="col-sm-6 col-md-4 reviewCol">
                     <div class="testimonial-box blurFull h-100">
                         <img src="/img/reviewGoogleOne.png" class="img-responsive" alt="Review One" width="90">
                         <div class="ratings-icons">
@@ -92,7 +92,7 @@
                     </div>
                 </div> <!-- End Col -->
 
-                <div class="col-sm-6 col-md-4">
+                <div class="col-sm-6 col-md-4 reviewCol">
                     <div class="testimonial-box blurFull h-100">
                         <img src="/img/reviewGoogleTwo.png" class="img-responsive" alt="Google Review Two" width="90">
                         <div class="ratings-icons">
@@ -113,7 +113,7 @@
                     </div>
                 </div> <!-- End Col -->
 
-                <div class="col-sm-6 col-md-4">
+                <div class="col-sm-6 col-md-4 reviewCol">
                     <div class="testimonial-box blurFull h-100">
                         <img src="/img/reviewGoogleThree.png" class="img-responsive" alt="Google Review 3" width="90">
                         <div class="ratings-icons">

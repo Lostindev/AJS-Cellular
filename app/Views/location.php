@@ -15,8 +15,34 @@
 
             </div>
 
-            <div class="col-auto contactDiv text-center">
+            <div class="col contactDiv text-center">
+                <h1 class="col-12">Hours</h1>
+                <br>
+                <div class="col-12 row noStyle text-center">
+                    <h3 class="col-md-6">Sunday:</h3>
+                    <h3 class="col-md-6">11AM - 5PM</h3>
+                    <h3 class="col-md-6">Monday:</h3>
+                    <h3 class="col-md-6">10:30AM - 8PM</h3>
+                    <h3 class="col-md-6">Tuesday:</h3>
+                    <h3 class="col-md-6">10:30AM - 8PM</h3>
+                    <h3 class="col-md-6">Wednesday:</h3>
+                    <h3 class="col-md-6">10:30AM - 8PM</h3>
+                    <h3 class="col-md-6">Thursday:</h3>
+                    <h3 class="col-md-6">10:30AM - 8PM</h3>
+                    <h3 class="col-md-6">Friday:</h3>
+                    <h3 class="col-md-6">10:30AM - 8PM</h3>
+                    <h3 class="col-md-6">Saturday:</h3>
+                    <h3 class="col-md-6">10:30AM - 8PM</h3>
+                </div>
+
+                <br>
                 <h1 class="col-12">Contact Us</h1>
+                <div class="col-12 row noStyle text-center">
+                    <h3 class="col-md-6">Phone</h3>
+                    <h3 class="col-md-6"><a href="tel:330-962-4434" style="color:#f15f4b!important">330-962-4434</a></h3>
+                </div>
+
+
             </div>
 
         </div>
