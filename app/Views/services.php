@@ -37,14 +37,15 @@
         </div>
         <div class="col-lg-8 hide" id="flashingServiceHidden">
             <div class="col-12"><i class="fas fa-5x fa-unlock-alt"></i></div><br>
-            <h1 class="col-12">This is Flashing & Unlocking</h1>
+            <h1 class="col-12">Phone Flashing & Unlocking</h1>
             <div class="row col-12 justify-content-center sellServiceRow serviceDiv ">
-                <p class="col-lg-4">Got an old phone laying around? Upgrading to a new device and unsure of what to do with your old one?
-                    <br>Don't leave money sitting on the table, turn your phone into cash today! You can thicken your wallet right now by bringing us your old phone or device. Depending on the model & condition, you can get up to $300-$400 for your device.
+                <p class="col-lg-4">We can flash or unlock your phone and use the service provider you prefer. There are many things to to factor in when determining if your device is eligble. <br>The easiest way to get the answers you need is to call us at <a style="color:#f15f4b!important" href="tel:330-962-4434">330-962-4434</a> .
+                <br>
+                We are looking forward to unlocking or flashing your phone to your needs!
                 </p>
 
                 <p class="col-lg-4">
-                    At AJ's Cellular we make it simple.<br> Bring your device to our store location and get cash for your phone, or give us a call to get a quote on your device's trade in value. The cash amount varies based on your device model, age & condition. If you aren't sure about your device give us a call or stop by and we will be able to assist you.
+                    Stop in today with your device and we will determine if your phone can be unlocked. When a device is on a CDMA network we we will troubleshoot your phone to see if it is flashable. When a device is on a GSM network we will determine if your phone is unlockable. If a phone is blacklisted or has a bad ESN it will result in complications within the Unlocking/Flashing process.
                 </p>
 
                 <div class="col-12">
@@ -67,12 +68,11 @@
             <div class="col-12"><i class="fas fa-5x fa-rocket"></i></div><br>
             <h1 class="col-12">iPhone Jailbreaking Services</h1>
             <div class="row col-12 justify-content-center sellServiceRow serviceDiv ">
-                <p class="col-lg-4">Got an old phone laying around? Upgrading to a new device and unsure of what to do with your old one?
-                    <br>Don't leave money sitting on the table, turn your phone into cash today! You can thicken your wallet right now by bringing us your old phone or device. Depending on the model & condition, you can get up to $300-$400 for your device.
+                <p class="col-lg-4">If your wondering how to jailbreak your iPhone and install Cydia, then you came to the right place. At AJ's we will jalbreak your iOS for you and set it up so it is ready for you to play with.<br> Cydia allows you to install custom packages and unleash the true power of your iPhone. What are you waiting for? Stop in today!
                 </p>
 
                 <p class="col-lg-4">
-                    At AJ's Cellular we make it simple.<br> Bring your device to our store location and get cash for your phone, or give us a call to get a quote on your device's trade in value. The cash amount varies based on your device model, age & condition. If you aren't sure about your device give us a call or stop by and we will be able to assist you.
+                    At AJ's Cellular we make it simple.<br> Bring your device to our store location and we will look at your device for free, or give us a call to see if your device is jailbreakable. This will vary based on your iOS version, device model, and settings. If you aren't sure about your device give us a call or stop by and we will be able to assist you.
                 </p>
 
                 <div class="col-12">
