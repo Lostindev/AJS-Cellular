@@ -11,17 +11,17 @@
             <div class="col-12"><i class="fas fa-5x fa-signal"></i></div><br>
             <h1 class="col-12">Activate or Switch</h1>
             <div class="row col-12 justify-content-center sellServiceRow serviceDiv ">
-                <p class="col-lg-4">Got an old phone laying around? Upgrading to a new device and unsure of what to do with your old one?
-                    <br>Don't leave money sitting on the table, turn your phone into cash today! You can thicken your wallet right now by bringing us your old phone or device. Depending on the model & condition, you can get up to $300-$400 for your device.
+                <p class="col-lg-4">Bring your own device or activate a phone that currently doesn't have service. We have the most affordable prices in the city. At AJ's we provide solutions for every type of device & we also offer Unlocking & Flashing services if you currently have service that your are unsatisfied with. <br> Often enough when you buy a new or used phone it doesn't come with service already on it.
                 </p>
 
                 <p class="col-lg-4">
-                    At AJ's Cellular we make it simple.<br> Bring your device to our store location and get cash for your phone, or give us a call to get a quote on your device's trade in value. The cash amount varies based on your device model, age & condition. If you aren't sure about your device give us a call or stop by and we will be able to assist you.
+                    Your phone isn't much use to you when it doesn't have activated service.<br>
+                    We offer cheap phone activation with amazing service areas. We value the way you use your phone and make sure your service plan provides all the features you need in your day-to-day life. Stop in today or give us a call.
                 </p>
 
                 <div class="col-12">
                     <br>
-                    <button class="btn btn-lg btn-outline-danger">Call Now For Quote</button>
+                    <a href="tel:330-962-4434" class="btn btn-lg btn-outline-danger btn-services">Call Now for Quote</a>
                 </div>
             </div>
         </div>
@@ -40,8 +40,8 @@
             <h1 class="col-12">Phone Flashing & Unlocking</h1>
             <div class="row col-12 justify-content-center sellServiceRow serviceDiv ">
                 <p class="col-lg-4">We can flash or unlock your phone allowing you to use the service provider you prefer. There are many things to to factor in when determining if your device is eligble. <br>The easiest way to get the answers you need is to call us at <a style="color:#f15f4b!important" href="tel:330-962-4434">330-962-4434</a> .
-                <br>
-                We are looking forward to unlocking or flashing your phone to your needs!
+                    <br>
+                    We are looking forward to unlocking or flashing your phone to your needs!
                 </p>
 
                 <p class="col-lg-4">
@@ -50,7 +50,7 @@
 
                 <div class="col-12">
                     <br>
-                    <button class="btn btn-lg btn-outline-danger">Call Now For Quote</button>
+                    <a href="tel:330-962-4434" class="btn btn-lg btn-outline-danger btn-services">Call Now for Quote</a>
                 </div>
             </div>
         </div>
@@ -77,7 +77,7 @@
 
                 <div class="col-12">
                     <br>
-                    <button class="btn btn-lg btn-outline-danger">Call Now For Quote</button>
+                    <a href="tel:330-962-4434" class="btn btn-lg btn-outline-danger btn-services">Call Now for Quote</a>
                 </div>
             </div>
         </div>
@@ -105,7 +105,7 @@
 
                 <div class="col-12">
                     <br>
-                    <button class="btn btn-lg btn-outline-danger">Call Now For Quote</button>
+                    <a href="tel:330-962-4434" class="btn btn-lg btn-outline-danger btn-services">Call Now for Quote</a>
                 </div>
             </div>
 

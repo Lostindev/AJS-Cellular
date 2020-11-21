@@ -42,6 +42,11 @@
     backdrop-filter: blur(3px);
 }
 
+#appleShop {
+    padding-top: 25px;
+    padding-bottom:25px;
+}
+
 .col-12 h3 {
     color:white;
 }

@@ -92,6 +92,14 @@
     padding-bottom:20px!important;
 }
 
+.btn-services {
+    color: #f15f4b!important;
+}
+
+.btn-services:hover {
+    color: white!important;
+}
+
 @media (hover:none) {
     .blur-full {
         padding:50px;
