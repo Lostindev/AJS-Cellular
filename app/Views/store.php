@@ -24,7 +24,7 @@
 </section>
 
 <section name="appleShop" id="appleShop">
-    <div class="row col-12 text-center justify-content-center">
+    <div class="row col-12 noStyle text-center justify-content-center">
         <div class="col-md-10">
             <i style="color:#f15f4b" class="fas fa-5x fa-wrench"></i>
         </div>
