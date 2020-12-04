@@ -90,6 +90,11 @@
     color:white;
 }
 
+#rServiceH1 {
+    padding-top:75px;
+    padding-bottom:75px;
+}
+
 .blur-full {
     height:100%;
     width:100%;

@@ -37,9 +37,7 @@
 <!--Section for referencing specific information about each service.-->
 <section class="" id="rservicesSection" name="rservicesSection">
     <div class="col-12 text-center">
-        <br>
-        <h1>We Offer Many Mobile Solutions</h1>
-        <br>
+        <h1 id="rServiceH1">We Offer Many Mobile Solutions</h1>
     </div>
     <div class="container-fluid serviceDiv">
 

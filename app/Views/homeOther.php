@@ -56,7 +56,7 @@
                 <div class="col-lg-4" id="aboutAjDiv">
                     <div class="text-center h-100 align-items-center aboutAjStyle col-12 justify-content-center">
                         <i class="col-12 fas fa-5x fa-check-circle"></i>
-                        <p>As an Official AppleCare Repair Center you can trust us to get the job done right. <br>We only use Grade A parts for repairs, and we stay up to date on all of Apple's guidelines for device repairs. </p>
+                        <p>As an Official AppleCare Repair Center you can trust us to get the job done right. <br>We only use Grade A parts for repairs, and we stay up to date on all of Apple's guidelines for device repairs. <br> We are the trusted source for phone repair for Canton and Akron Ohio.</p>
                     </div>
                 </div>
 
