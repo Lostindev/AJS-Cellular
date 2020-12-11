@@ -24,6 +24,7 @@
         gtag('js', new Date());
 
         gtag('config', 'G-GNHKEZGMPS');
+        gtag('config', 'UA-154994072-2');
     </script>
 
     <!-- Google Tag Manager -->
@@ -158,22 +159,3 @@
             </div>
         </div>
     </section>
-
-
-    <!--
-    <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-center">
-        <ul>
-            <li class="menu-toggle">
-                <button onclick="toggleMenu();">&#9776;</button>
-            </li>
-            <li class="menu-item hidden"><a href=" <?php echo base_url('/home') ?> ">Home</a></li>
-            <li class="menu-item hidden"><a href="<?php echo base_url('/store') ?>">Store</a></li>
-            <li class="menu-item hidden"><a href="<? echo site_url('/repairs') ?>">Repairs</a></li>
-            <li class="menu-item hidden"><a href="<? echo site_url('') ?>">Services</a></li>
-            <li class="menu-item hidden"><a href="<? echo site_url('') ?>">Location</a></li>
-            <li class="menu-item hidden"><a href="<? echo site_url('') ?>">Contact</a></li>
-        </ul>
-    </nav>
-</header>
-
--->
