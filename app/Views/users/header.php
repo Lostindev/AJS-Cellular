@@ -12,21 +12,6 @@
     <link rel="stylesheet" href="/css/footer.css">
     <link rel="stylesheet" href="/css/<?php echo $page ?>.css">
 
-    <!--Google Analytics & Tag Management-->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GNHKEZGMPS"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-GNHKEZGMPS');
-        gtag('config', 'UA-154994072-2');
-    </script>
-
     <!-- Google Tag Manager -->
     <script>
         (function(w, d, s, l, i) {
@@ -69,33 +54,19 @@
       "itemListElement": [{
         "@type": "ListItem",
         "position": 1,
-        "name": "Books",
+        "name": "Store",
         "item": "https://example.com/books"
       },{
         "@type": "ListItem",
         "position": 2,
-        "name": "Science Fiction",
+        "name": "Repairs",
         "item": "https://example.com/books/sciencefiction"
       },{
         "@type": "ListItem",
         "position": 3,
-        "name": "Award Winners"
+        "name": "Services"
       }]
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Literature",
-        "item": "https://example.com/literature"
-      },{
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Award Winners"
-      }]
-    }]
+    }
     </script> -->
 
 
