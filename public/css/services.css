@@ -1,5 +1,5 @@
 #activateService {
-    background-image: url('/img/activateImage.webp');
+    background-image: url('/img/activateImage.jpg');
     width:auto;
     display:flex;
     background-size: cover;
@@ -9,7 +9,7 @@
 }
 
 #flashingService {
-    background-image: url('/img/sim-flashing.webp');
+    background-image: url('/img/sim-flashing.jpg');
     display:flex;
     width:auto;
     background-size: cover;
@@ -19,7 +19,7 @@
 }
 
 #jailbreakService {
-    background-image: url('/img/jailbreakImage.webp');
+    background-image: url('/img/jailbreakImage-min.jpg');
     display:flex;
     width:auto;
     background-size: cover;
@@ -29,7 +29,7 @@
 }
 
 #sellphoneService {
-    background-image: url('/img/sellphoneImage.webp');
+    background-image: url('/img/sellphoneImage.jpg');
     display:flex;
     width:auto;
     background-size: cover;
