@@ -1,7 +1,7 @@
 
 
 #homeDiv {
-    background-image: url('/img/home-blur.webp');
+    background-image: url('/img/home-blur.jpg'); 
     width:auto;
     display:flex;
     background-size: cover;

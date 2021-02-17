@@ -31,7 +31,7 @@
 }
 
 #androidRepair {
-    background-image: url('/img/androidrImage.webp');
+    background-image: url('/img/androidrImage-min.jpg');
     display:flex;
     width:auto;
     background-size: cover;
@@ -41,7 +41,7 @@
 }
 
 #batteryRepair {
-    background-image: url('/img/batteryrImage.webp');
+    background-image: url('/img/batteryrImage-min.jpg');
     width:auto;
     display:flex;
     background-size: cover;
@@ -51,7 +51,7 @@
 }
 
 #screenRepair {
-    background-image: url('/img/screenrImage.webp');
+    background-image: url('/img/screenrImage-min.jpg');
     display:flex;
     width:auto;
     background-size: cover;
@@ -61,7 +61,7 @@
 }
 
 #waterRepair {
-    background-image: url('/img/waterrImage.webp');
+    background-image: url('/img/waterrImage-min.jpg');
     display:flex;
     width:auto;
     background-size: cover;
